@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zxum, better known as Zion or Z! 
-- 👀 I’m interested in Full Stack Development.
+- 👀 I’m interested in Full Stack Development, check out my previous work on my [portfolio](https://zxum.github.io).
 - 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on Cloud Native Applications.
 - 📫 How to reach me: email me at zion.um@outlook.com
